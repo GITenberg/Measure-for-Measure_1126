@@ -1,0 +1,31 @@
+_repo: Measure-for-Measure_1126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: World Library
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1126'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Chastity -- Drama'
+- !lcc 'PR'
+- !lcsh 'Brothers and sisters -- Drama'
+- !lcsh 'Vienna (Austria) -- Drama'
+- GITenberg
+title: Measure for Measure
+url: http://www.gutenberg.org/ebooks/1126
